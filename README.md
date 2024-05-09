@@ -1,5 +1,6 @@
                                                         ### Hi there 👋 I'm Gizem 
-         As a Software Developer, I am trying to improve myself in this area. I create individual projects with React, React Native, Rust.
+                            As a Software Developer, I am trying to improve myself in this area. 
+                                I create individual projects with React, React Native, Rust.
       
 
 <!--
