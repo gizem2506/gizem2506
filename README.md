@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Gizem
-
+                                                        ### Hi there 👋 I'm Gizem 
+As a Software Developer, I am trying to improve myself in this area. I create individual projects with React, React Native, Rust.
 <!--
 **gizem2506/gizem2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
