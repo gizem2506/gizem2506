@@ -1,9 +1,10 @@
                                                         ### Hi there 👋 I'm Gizem 
                             As a Software Developer, I am trying to improve myself in this area. 
                                 I create individual projects with React, React Native, Rust.
+                                
                               
       
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+
 <!--
 **gizem2506/gizem2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
